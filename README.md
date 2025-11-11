@@ -4,6 +4,8 @@ Projeto de jogo criado como segunda VA da disciplina de Princípios de Programa�
 
 ## Sobre o Jogo
 
+![Capa do Jogo](assets/header-jogo.png)
+
 Inspirado no clássico jogo "Conserta Félix Jr." (do filme *Detona Ralph*), **Conserta-Rural-Junior** coloca você no papel de um herói com um martelo mágico!
 
 Um antagonista misterioso causou estragos nos prédios institucionais da UFRPE, e agora cabe a você reparar todos os danos. Utilize seu martelo para consertar janelas quebradas, paredes rachadas e restaurar a ordem no campus!
