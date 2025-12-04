@@ -24,6 +24,12 @@ Um antagonista misterioso causou estragos nos prédios institucionais da UFRPE, 
 * **Barra de Espaço:** Pular.
 * **Tecla 'C' (ou 'Z'):** Usar o Martelo Mágico.
 
+<img width="1271" height="995" alt="Image" src="https://github.com/user-attachments/assets/9bda0969-ba44-4f16-af7c-dc1f9c5021b5" />
+
+## Requisitos 
+
+Para jogar o jogo basta clonar esse projeto em sua máquina e abrir ele no visual studio code. Após isso, instale a biblioteca pygame através do comando: pip install pygame e rode o programa no arquivo main
+
 ## Licença
 
 Este projeto é distribuído sob a Licença MIT.
