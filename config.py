@@ -1,0 +1,30 @@
+# config.py
+import os
+
+# --- DIMENSÕES E TÍTULO ---
+LARGURA_TELA = 1280
+ALTURA_TELA = 1024 
+TITULO = "Conserta-Rural-Junior"
+FPS = 60
+
+# --- CORES ---
+PRETO = (0, 0, 0)
+AZUL = (0, 0, 255)
+AMARELO = (255, 255, 0)
+VERDE = (0, 255, 0)
+VERMELHO = (255, 0, 0)
+MARROM = (139, 69, 19)
+CINZA = (100, 100, 100)
+AZUL_ESCURO = (0, 0, 100)
+LARANJA = (255, 165, 0)
+DOURADO = (255, 215, 0)
+BRANCO = (255, 255, 255)
+MARROM_ESCURO = (92, 64, 51) 
+
+# --- GRID DO PRÉDIO ---
+COLS_X = [150, 370, 590, 810, 1030]
+ROWS_Y = [50, 200, 350, 500, 650] 
+
+# --- OUTROS ---
+TEMPO_LIMITE_NIVEL = 70
+ARQUIVO_SCORES = "highscores.json"
